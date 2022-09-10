@@ -40,7 +40,3 @@ console.log(dc.effectiveDamage(100, 50, 30));
 このコードはGithub Action によってテストされ、パスされました。
 
 [![Damage Calculation Test](https://github.com/N-2022/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)](https://github.com/N-2022/damage-calc-4005-gh-actions/actions/workflows/main.yml)
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
